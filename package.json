@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/stefanysanz/Employee-Summary/issues"
   },
-  "homepage": "https://github.com/stefanysanz/Employee-Summary#readme"
+  "homepage": "https://github.com/stefanysanz/Employee-Summary#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.3"
+  }
 }
