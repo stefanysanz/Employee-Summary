@@ -1,0 +1,19 @@
+{
+  "name": "employee-summary",
+  "version": "1.0.0",
+  "description": "An application that produces an employee summary HTML page based on manager input",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanysanz/Employee-Summary.git"
+  },
+  "author": "stefanysanz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefanysanz/Employee-Summary/issues"
+  },
+  "homepage": "https://github.com/stefanysanz/Employee-Summary#readme"
+}
