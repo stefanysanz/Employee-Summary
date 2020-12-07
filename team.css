@@ -1,8 +1,9 @@
-.member {
-  margin-bottom: 20px;
+.jumbotron {
+  background-color: #3399ff;
+  text-align: center;
 }
 
-.data-label {
-  font-weight: bold;
-  margin-right: 5px;
+.card {
+  background-color: lightgray;
+  text-align: left;
 }
